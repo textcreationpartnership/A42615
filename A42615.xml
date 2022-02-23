@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Generovs vsvrer Mr. Nevell in Thomas-street who alloweth his maid usually a black pudding to dinner : who once bought a pullet for his wife when she was sicke, but he would goe to market himselfe, because he would not be cosened by the messenger, and brought the feathers home in his hat when it was pulled, because he would not loose them, and how he was troubled therewith when the Lord Major seeing him called to speak with him : and how he made lamentable moane to his neighbours, that his maid had robd him, because shee gave her sweet-hart a piece of bread and cheese.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42615</idno>
+            <idno type="STC">Wing G513</idno>
+            <idno type="STC">ESTC R14046</idno>
+            <idno type="EEBO-CITATION">13335768</idno>
+            <idno type="OCLC">ocm 13335768</idno>
+            <idno type="VID">99088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 456:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Generovs vsvrer Mr. Nevell in Thomas-street who alloweth his maid usually a black pudding to dinner : who once bought a pullet for his wife when she was sicke, but he would goe to market himselfe, because he would not be cosened by the messenger, and brought the feathers home in his hat when it was pulled, because he would not loose them, and how he was troubled therewith when the Lord Major seeing him called to speak with him : and how he made lamentable moane to his neighbours, that his maid had robd him, because shee gave her sweet-hart a piece of bread and cheese.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Salomon Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Caption-title: A dialogve between the maid and the nurse, about their master Mr. Nevell his generositie.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nevell, --  Mr.</term>
+               <term>London (England) --  Social life and customs --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99088:1"/>
+            <pb facs="tcp:99088:1"/>
+            <p> THE GENEROVS <hi>
+                  <g ref="char:V">Ʋ</g>S<g ref="char:V">Ʋ</g>RER</hi> M<hi rend="sup">r</hi> NEVELL in <hi>Thames-ſtreet,</hi> who allow<g ref="char:EOLhyphen"/>eth his maid uſually a black pudding to dinner. Who once bought a Pullet for his wife when ſhee was ſicke; but he would goe to Market himſelfe, becauſe he would not be coſened by the Meſſenger; and brought the feathers home in his hat when it was pulled; becauſe he would not looſe them; and how he was troubled there<g ref="char:EOLhyphen"/>with when the Lord Major ſeeing him called to ſpeak with him.</p>
+            <p>And how he made lamentable moane to his Neigh<g ref="char:EOLhyphen"/>bours, that his maid had robd him; becauſe ſhee gaue her Sweet-hart a piece of bread and cheeſe.</p>
+            <figure>
+               <figDesc>woodcut of man</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Salomon Johnſon,</hi> 1641.</p>
+            <pb facs="tcp:99088:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:99088:2"/>
+            <head>A DIALOGVE BE<g ref="char:EOLhyphen"/>tween the <hi>Maid</hi> and the <hi>Nurſe,</hi> about their Maſter, M<hi rend="sup">r</hi>. <hi>Nevell</hi> his Generoſitie.</head>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>
+                  <hi>NVrſe,</hi> I will tell you what I heard my Maſter ſay even now of you.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Why, what did he ſay? I pray thee tell me.</p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>He ſaid that he would turn away both you, and me: you to morrow, and me the next day after.</p>
+            </sp>
+            <sp>
+               <speaker>Nur.</speaker>
+               <p>How can I go away, and my Miſtres ſo ill? thou talkeſt ſtrangely; or thou either, why what is the matter with him now? it is the ſtrangeſt man, he is never contented, never quiet.</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>For your part he ſaith, that you are ſo chargeable to him, and put him to ſuch coſt for my Miſtriſſe, that he will not by any means endure it.</p>
+            </sp>
+            <sp>
+               <speaker>Nur.</speaker>
+               <p>He is a baſe fellow, for all he is my maſter, would he have to ſtarve my miſtriſſe? I will have that which is fitting for her, that I will, a doore ſick
+<pb n="2" facs="tcp:99088:3"/> woman, I think he would ſtarve her, if he might have his will.</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>Truly I muſt needs ſay that he is very mi<g ref="char:EOLhyphen"/>ſerable, I am ſure I have felt it, and known it; for I did live with him when he was a Widower.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Was he not then more generous and free, then he is now?</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>Free? I will tell you how free he was; I was all the family he had; and he gave me but 18. s. a yeer, and we lay in bed (commonly) till 9. or 10. of the clock in the morning; and went to bed before candle light to ſave charges; and he would let me make but one meal a day for the moſt part (as him<g ref="char:EOLhyphen"/>ſelf had) and that was with a black pudding to din<g ref="char:EOLhyphen"/>ner, and an half peny loaf, except by chance ſome<g ref="char:EOLhyphen"/>times he cut me a ſlice of bread and cheeſe, and that very thin: which he alwayes uſed to lock up in the Cubboard himſelf, becauſe he would not truſt me with it.</p>
+            </sp>
+            <sp>
+               <speaker>Nur.</speaker>
+               <p>Had you no ſupper then never, nor break<g ref="char:EOLhyphen"/>faſt too?</p>
+            </sp>
+            <sp>
+               <speaker>Naid.</speaker>
+               <p>Sometimes he would cut me a little thin ſlice of bread and cheeſe; or elſe give me a ſlice of bread onely, or at other times he would give me an half peny for meale, and an half peny for butter, to make me an haſty pudding.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſ.</speaker>
+               <p>Oh monſtrous, I never heard of the like. But what drink did he allow you? I hope you kept a good veſſel of drink in the houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>We had alwayes a firkin of foure ſhilling Beere in the houſe; but I could never come at it, except I went to him for the key, which was very
+<pb n="3" facs="tcp:99088:3"/> irkſome to me to do, he gave it me ſo mutteringly.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Oh, fie upon it; how could you endure to dwell with him?</p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>I muſt tell you that I could never have born it, but that he promiſed me, that if I would live with him untill he died, he would give me an hun<g ref="char:EOLhyphen"/>dred pounds to my portion; which he being old, moved me to undergo the greater hardſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſ.</speaker>
+               <p>I do aſſure you that he is very covetous, and miſerable, as ever I heard of any man in my life; if it were not for my Miſtreſſe, I would not ſtay an houre in the houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>Did you not hear what a trick he plaied yeſterday, when he went for the Pullet for my Mi<g ref="char:EOLhyphen"/>ſtreſſe?</p>
+            </sp>
+            <sp>
+               <speaker>Nur.</speaker>
+               <p>No, why what did he do, I know it was a very poore, lean, ſtarved fowl; I do not think but it was ſome ſmothered pullet: was that it?</p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <p>No I aſſure you, he bought it at one of the Poulterers ſhops in <hi>Gracious ſtreet,</hi> it coſt him 10. d. But here was the jeſt. We have a feather tub, and it will not hold I think half a buſhell, and I have lived with him this 3. yeers and a half, and I dare ſay that there is ſcarce ſo many feathers in it, as will well cover the bottome of it; we have had ſuch ſtore of fowl ſince I dwelt with him: and yet he was ſo covetous, ihat when he had bought the Pullet, and made the woman to pull it and all, he called for the feathers, and took them from the wo<g ref="char:EOLhyphen"/>man, and put them in the crown of his hat, and put it upon his head, and ſo came home: But as he was coming home, he chanced to meet the Lord Maior,
+<pb n="4" facs="tcp:99088:4"/> who had ſent yeſterday two or three times to our houſe, to ſpeak with him about ſomething, I think to ſpeak in the behalf of a friend of my Lords, that oweth him money; and my Mr. ſeeing my Lord coming, went into an Haberdaſhers ſhop, and made an excuſe to beg a ſheet of paper to put the pullet in, to carry it home; but my Lord eſpied him, and commanded an Officer to go into the ſhop to call him to my Lord, which he did.</p>
+               <p>Then was my M<hi rend="sup">r</hi> perplexed what to do, becauſe of the feathers in his hat, to talk to my L. Major with his hat on was very misbeſeeming, and not fit<g ref="char:EOLhyphen"/>ting: and how to put off his hat, and not deſcry the feathers in it he could not tell. But whileſt he was pauſing upon the matter, my Lord himſelf drew nearer to the ſhop, and called to him, M. <hi>Nevell</hi> (quoth he, I would ſpeak with you) then he came came to my Lord, bluſtring by as if he had been in wondrous haſte; and giving his hat brim a little touch with his hand, went to paſſe by my Lord, tel<g ref="char:EOLhyphen"/>ling him, that he would be with his honour preſent<g ref="char:EOLhyphen"/>ly at his houſe, but now he could not ſtay, his wife was ſick, and his haſte concerned her life.</p>
+               <p>But the Lord Major being very importunate, would needs ſpeak with him. Then my M. moved his hat up and down a little with his hand, and my L. held him in talk ſo long, till at laſt the feathers began to flie out about his eares forth of his hat.</p>
+               <p>What (quoth my Lord Maior) have you got a birds neſt in your hat, M. <hi>Nevell,</hi> that the feathers flie about ſo. Then my M. put off his hat quite, and ſhewed it my Lord, ſaying, that becauſe his wife,
+<pb n="5" facs="tcp:99088:4"/> had longed for a Pullet, being not well, he brought home the feathers and all, leaſt ſhee ſhould long for them too: But oh how my Lord, and his Officers, and the people about him laughed at it.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Laugh (quoth I) how could they chooſe but laugh; I cannot forbeare laughing my ſelfe. I never heard of the like to him in every thing; but me thinks this is as pretty a jeſt as ever I heard; how can my Lord Major, or any that ſaw it, chooſe but laugh as long as they live, every time they ſee him.</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>But you little thinke what a quarter my Maſter keeps now? did you not heare him rayling at me even now; and I muſt be gone now that I muſt?</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Come (quoth I) I thinke it will be the better for you; but what was the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>My Maſter (you know) was called forth in the Morning to goe to <hi>Grayes-Inne,</hi> and as it ſeemes knew that he ſhould ſtay forth; and therefore left me the bread and cheeſe out; which was I confeſſe a great favour from him; for he doth ſo very ſel<g ref="char:EOLhyphen"/>dome; but he had written upon the Cheeſe, which was about halfe a Cheeſe, within about an inch of the edge, he had written theſe words; <hi>Cut this Cheeſe even;</hi> and it ſo fortuned that about three houres ſince, a friend of mine came to ſee me, who when he came, I was glad that I had the bread and Cheeſe to ſet before him; and did therefore deſire him to ſit downe, and ſet it before him; you was then very buſie in the next Chamber with my Mi<g ref="char:EOLhyphen"/>ſtris.</p>
+               <pb n="6" facs="tcp:99088:5"/>
+               <p> But here was the miſchiefe, that he eſpied this writing upon the Cheeſe, which he read, and know<g ref="char:EOLhyphen"/>ing him to be a miſerable covetous fellow, concei<g ref="char:EOLhyphen"/>ved that he writ it from a niggardly diſpoſition, and therfore drew out his knife, &amp; cuts it quite through the Cheeſe very handſomely, and cut about halfe the halfe Cheeſe, which was two or three pounds, at the leaſt, and when he had done, he took his pen and inke out of his pocket, and writ very neare the edge thus; <hi>Is not this Cheeſe cut even;</hi> and put the reſt in his pocket; and after ſome few words of diſcourſe between us, took his leave of me; and ſo we parted: but I was in a terrible perplexitie to ſee him carry away the Cheeſe; yet I was aſhamed to forbid him.</p>
+               <p>But even now my Maſter came in, and found his Cheeſe gone; but oh how he cryed out againſt me for his Cheeſe; ſo I was faine to tell him how it was: then he called me whore, and jade, and theefe, and I know not what, &amp; I muſt be gone that I muſt; and now he is gone and complaines to our neigh<g ref="char:EOLhyphen"/>bours, that I have let in theevds to rob him; which God knowes was nothing but a piece of bread and cheeſe, which I promiſed to pay him for out of my wages; but he would not heare me ſpeake, oh, he is gone forth in a terrible chafe.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Hark, hark, ſome body knocks, I thinke.</p>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <p>No, no, I warrant you, goe goe downe and ſee who is at dore, I will goe in to my Maſter.</p>
+               <p>Thus they parted, and their diſcourſe ended.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99088:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
